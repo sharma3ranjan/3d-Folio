@@ -21,11 +21,11 @@ const Navbar = () => {
             window.scroll(0, 0)
           }}
         >
-          <img src={logo} className='w-9 h-9 object-contain' />
+          <img src={logo} className='w-6 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex'>
-            Ranjan &nbsp;
+            | &nbsp; Ranjan
             <span className='sm:block hidden'>
-              |&nbsp; Sharma
+              &nbsp; Sharma
             </span>
           </p>
         </Link>
