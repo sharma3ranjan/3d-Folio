@@ -20,7 +20,7 @@ import {
     tesla,
     shopify,
     carrent,
-    jobit,
+    netflix,
     tripguide,
     threejs,
 } from "../assets";
@@ -215,9 +215,9 @@ const projects = [
         source_code_link: "https://github.com/sharma3ranjan/RegEditor.git",
     },
     {
-        name: "Job IT",
+        name: "Netflix Clone",
         description:
-            "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+            "Designed and developed a Netflix. Used TMDb For Getting All Data From API. Section Wise Movies are Displayed. User Can See Trailer By Name.",
         tags: [
             {
                 name: "react",
@@ -232,8 +232,8 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: jobit,
-        source_code_link: "https://github.com/",
+        image: netflix,
+        source_code_link: "https://netflixranjanshrma.web.app",
     },
     {
         name: "Trip Guide",
