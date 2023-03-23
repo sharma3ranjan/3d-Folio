@@ -194,25 +194,25 @@ const testimonials = [
 
 const projects = [
     {
-        name: "Car Rent",
+        name: "Reg-Editor",
         description:
-            "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+            "This is the Real-time Web based text editor. With the help of this user can create room with different and unique number called Room ID.",
         tags: [
             {
-                name: "react",
+                name: "React",
                 color: "blue-text-gradient",
             },
             {
-                name: "mongodb",
+                name: "CSS3",
                 color: "green-text-gradient",
             },
             {
-                name: "tailwind",
+                name: "tailwind CSS",
                 color: "pink-text-gradient",
             },
         ],
         image: carrent,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/sharma3ranjan/RegEditor.git",
     },
     {
         name: "Job IT",
